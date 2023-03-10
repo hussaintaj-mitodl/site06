@@ -25,7 +25,9 @@
     "content": "",
     "website": "site06"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
   "site_uid": "60751129-ee20-429c-b3e8-987eb47f8b3e",
   "site_short_id": "site06"
 }
